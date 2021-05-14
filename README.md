@@ -1,0 +1,2 @@
+# Python-StudentManagementSystem
+这是一个用Python3写的一个简易学生管理系统，带外部文件读取写入功能
